@@ -1,0 +1,79 @@
+div{
+    width: 600px;
+}
+main{
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    word-spacing: 9px;;
+    line-height: 80px;
+    text-shadow:0 0 9px red;
+}
+.photo{
+    border: solid 3px;
+    border-style: dashed;
+    box-shadow: 0 0 9px red;
+    margin: 50px;
+}
+.box{
+    border-style:solid;
+    box-shadow: 0 0 9px red;
+}
+.text{
+    font-family: fantasy;
+    color: #ffffff;
+    text-shadow: 0 0 5px black;
+    word-spacing: 9px;
+    letter-spacing: 1px
+}
+.Vitruvius{
+    font-family: "Jost", sans-serif;
+    color:#ffffff;
+    text-shadow:0 0 5px #d50404fc;
+    text-decoration: underline;
+    word-spacing: 5px;
+
+}
+.Monalisa{
+    font-family: "Jost", sans-serif;
+    color:#ffffff;
+    text-shadow:0 0 5px #d50404fc;
+    text-decoration: underline;
+    word-spacing: 9px;
+}
+.Sonaksam{
+    font-family: "Jost", sans-serif;
+    color:#ffffff;
+    text-shadow:0 0 5px #d50404fc;
+    text-decoration: underline;
+    word-spacing: 9px;
+}
+.photo2{
+    border: solid 3px;
+    border-style: dashed;
+    box-shadow: 0 0 9px red;
+    margin: 50px;
+}
+footer{
+font-size: 35px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align:center;
+text-shadow: 0 0 5px rgb(255, 255, 255);
+color: #741111;
+word-spacing: 5px;
+line-height: 70px;
+font-weight: 600;
+}
+.Mona{
+    font-family: fantasy;
+    color: #ffffff;
+    text-shadow: 0 0 5px black;
+    letter-spacing: 3px;
+}
+.Underline{
+color: #741111;
+text-decoration: line-through;
+}
